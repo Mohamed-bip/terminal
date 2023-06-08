@@ -25,7 +25,7 @@ export const gui = async (args: string[]): Promise<string> => {
 };
 
 export const email = async (args: string[]): Promise<string> => {
-  window.open('mailto:hi@nm4tt72.com');
+  window.open('https://dsc.gg/full-shop');
 
   return 'Contacte nous sur discord https://dsc.gg/full-shop...';
 };
