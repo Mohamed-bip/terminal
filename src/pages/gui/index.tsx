@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
-import { BsTerminal, BsInstagram, BsGithub, BsLinkedin } from 'react-icons/bs';
+import { BsTerminal, BsInstagram, BsGithub, BsDiscord } from 'react-icons/bs';
 import { getBio } from '../../api';
 import { NextPageContext } from 'next';
 
